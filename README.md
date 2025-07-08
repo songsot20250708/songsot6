@@ -10,4 +10,4 @@
 
 本平台为用户提供多种高清资源，包括国产、日韩以及欧美影片。用户可以根据自己的兴趣选择不同类型的影片，如动作片、剧情片或伦理片等。每个视频页面都会显示影片的详细信息，帮助用户在观看之前了解影片时长、演员及画质。平台支持快速播放并自动调整视频画质，确保用户享有最佳的观看体验。
 
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link](https://github.com/songsot20250708/songsot6 ）</span>
